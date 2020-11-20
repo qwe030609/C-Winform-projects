@@ -1,0 +1,10 @@
+D:\my docu\ChartTimeTagger\ChartTimeTagger\bin\Debug\ChartTimeTagger.exe.config
+D:\my docu\ChartTimeTagger\ChartTimeTagger\bin\Debug\ChartTimeTagger.exe
+D:\my docu\ChartTimeTagger\ChartTimeTagger\bin\Debug\ChartTimeTagger.pdb
+D:\my docu\ChartTimeTagger\ChartTimeTagger\obj\Debug\ChartTimeTagger.csprojAssemblyReference.cache
+D:\my docu\ChartTimeTagger\ChartTimeTagger\obj\Debug\ChartTimeTagger.Form1.resources
+D:\my docu\ChartTimeTagger\ChartTimeTagger\obj\Debug\ChartTimeTagger.Properties.Resources.resources
+D:\my docu\ChartTimeTagger\ChartTimeTagger\obj\Debug\ChartTimeTagger.csproj.GenerateResource.cache
+D:\my docu\ChartTimeTagger\ChartTimeTagger\obj\Debug\ChartTimeTagger.csproj.CoreCompileInputs.cache
+D:\my docu\ChartTimeTagger\ChartTimeTagger\obj\Debug\ChartTimeTagger.exe
+D:\my docu\ChartTimeTagger\ChartTimeTagger\obj\Debug\ChartTimeTagger.pdb
